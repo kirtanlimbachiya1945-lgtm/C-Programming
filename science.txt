@@ -1,0 +1,119 @@
+Easy
+What is the chemical formula of water?
+H2O
+CO2
+O2
+NaCl
+A
+
+Easy
+Which planet is known as the Red Planet?
+Mars
+Venus
+Jupiter
+Saturn
+A
+
+Easy
+What gas do humans need to breathe?
+Oxygen
+Nitrogen
+Carbon Dioxide
+Hydrogen
+A
+
+Easy
+How many bones are there in an adult human body?
+206
+210
+201
+196
+A
+
+Easy
+Which organ pumps blood throughout the body?
+Heart
+Lungs
+Brain
+Kidney
+A
+
+Medium
+What is the speed of light in vacuum?
+300000 km/s
+150000 km/s
+500000 km/s
+100000 km/s
+A
+
+Medium
+Which vitamin is produced when skin is exposed to sunlight?
+Vitamin D
+Vitamin A
+Vitamin B
+Vitamin C
+A
+
+Medium
+Which blood group is called the universal donor?
+O Negative
+AB Positive
+A Positive
+B Negative
+A
+
+Medium
+Which scientist discovered gravity?
+Isaac Newton
+Albert Einstein
+Galileo
+Nikola Tesla
+A
+
+Medium
+Which part of the cell contains genetic material?
+Nucleus
+Cell Wall
+Cytoplasm
+Membrane
+A
+
+Hard
+What is the SI unit of force?
+Newton
+Joule
+Pascal
+Watt
+A
+
+Hard
+Which gas is most abundant in Earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon Dioxide
+Hydrogen
+A
+
+Hard
+Who proposed the theory of relativity?
+Albert Einstein
+Isaac Newton
+Stephen Hawking
+Galileo
+A
+
+Hard
+What is the pH value of pure water?
+7
+5
+9
+1
+A
+
+Hard
+Which particle has a negative charge?
+Electron
+Proton
+Neutron
+Photon
+A
