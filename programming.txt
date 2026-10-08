@@ -1,0 +1,119 @@
+Easy
+What does CPU stand for?
+Central Processing Unit
+Computer Processing Unit
+Control Processing Unit
+Central Program Unit
+A
+
+Easy
+Which symbol is used to end a statement in C?
+;
+:
+,
+.
+A
+
+Easy
+Which function is used to display output in C?
+printf()
+scanf()
+gets()
+puts()
+A
+
+Easy
+Which data type is used to store whole numbers?
+int
+float
+char
+double
+A
+
+Easy
+Which header file is required for printf() and scanf()?
+stdio.h
+string.h
+math.h
+ctype.h
+A
+
+Medium
+What is a pointer in C?
+A variable that stores an address
+A loop
+A function
+A structure
+A
+
+Medium
+Which function is used to allocate memory dynamically?
+malloc()
+printf()
+scanf()
+strlen()
+A
+
+Medium
+Which keyword is used to stop a loop immediately?
+break
+continue
+return
+goto
+A
+
+Medium
+Which operator is used to compare two values for equality?
+==
+=
+!=
+<=
+A
+
+Medium
+Which header file contains strcpy() function?
+string.h
+stdio.h
+stdlib.h
+math.h
+A
+
+Hard
+What is recursion?
+A function calling itself
+A type of loop
+A variable
+A library
+A
+
+Hard
+Which function is used to free dynamically allocated memory?
+free()
+delete()
+remove()
+clear()
+A
+
+Hard
+What is the size of a char data type in C?
+1 byte
+2 bytes
+4 bytes
+8 bytes
+A
+
+Hard
+Which storage class retains a variable's value between function calls?
+static
+auto
+register
+extern
+A
+
+Hard
+Which data structure follows the LIFO principle?
+Stack
+Queue
+Array
+Linked List
+A

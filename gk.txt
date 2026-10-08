@@ -1,0 +1,119 @@
+Easy
+What is the capital of India?
+New Delhi
+Mumbai
+Kolkata
+Chennai
+A
+
+Easy
+What is the national animal of India?
+Tiger
+Lion
+Elephant
+Leopard
+A
+
+Easy
+How many states are there in India?
+28
+29
+27
+30
+A
+
+Easy
+Which is the largest continent?
+Asia
+Africa
+Europe
+Australia
+A
+
+Easy
+Which is the national bird of India?
+Peacock
+Parrot
+Eagle
+Sparrow
+A
+
+Medium
+What is the currency of Japan?
+Yen
+Dollar
+Won
+Euro
+A
+
+Medium
+Which is the longest river in the world?
+Nile
+Amazon
+Ganga
+Yangtze
+A
+
+Medium
+Which country is known as the Land of the Rising Sun?
+Japan
+China
+Thailand
+Korea
+A
+
+Medium
+Who wrote the Indian National Anthem?
+Rabindranath Tagore
+Bankim Chandra Chatterjee
+Sarojini Naidu
+Subhash Chandra Bose
+A
+
+Medium
+Which is the largest ocean in the world?
+Pacific Ocean
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+A
+
+Hard
+Where is the headquarters of the United Nations located?
+New York
+London
+Paris
+Geneva
+A
+
+Hard
+Which is the smallest country in the world?
+Vatican City
+Monaco
+Maldives
+Singapore
+A
+
+Hard
+How many members are there in the Rajya Sabha?
+245
+250
+230
+225
+A
+
+Hard
+Which country has the highest population in the world?
+India
+China
+USA
+Indonesia
+A
+
+Hard
+Which Indian state has the largest area?
+Rajasthan
+Madhya Pradesh
+Maharashtra
+Uttar Pradesh
+A
